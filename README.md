@@ -1,6 +1,6 @@
 # Tic-Tac-Toe Game
 
-This is a simple Tic-Tac-Toe game built using HTML, CSS and jQuery.7
+This is a simple Tic-Tac-Toe game built using HTML, CSS and jQuery.
 
 ## Website Link
 https://tictactoe-mu-five.vercel.app/
