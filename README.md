@@ -1,6 +1,6 @@
 # Tic-Tac-Toe
 
-This is a simple Tic-Tac-Toe game built using HTML, CSS, JavaScript, and jQuery.
+This is a simple Tic-Tac-Toe game built using HTML, CSS and jQuery.
 
 ## Features
 - Interactive Tic-Tac-Toe board
