@@ -3,7 +3,7 @@
 This is a simple Tic-Tac-Toe game built using HTML, CSS and jQuery.
 
 ## Website Link
-https://tictactoe-mu-five.vercel.app/
+https://games-joe.vercel.app/
 
 ## Features
 - Interactive Tic-Tac-Toe board
